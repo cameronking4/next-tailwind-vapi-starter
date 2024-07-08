@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) customized to display VapiBlocks installation. 
+# VapiBlocks Next14 Tailwind Starter
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) customized to display VapiBlocks UI components. 
 
 The following pre-defined files are needed to make Orb demo work:
 - hooks/use-vapi.ts
