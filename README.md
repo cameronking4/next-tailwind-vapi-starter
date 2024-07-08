@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) customized to display VapiBlocks installation. 
+
+The following pre-defined files are needed to make Orb demo work:
+- hooks/use-vapi.ts
+- components/orb.tsx
+- .env
+
+**Edit the .env file** with your public key & assistantId from the [Vapi Dashboard]([vapi.ai/dashboard).
+
 
 ## Getting Started
 
-First, run the development server:
+Edit the .env file then, run the development server:
 
 ```bash
 npm run dev
